@@ -16,6 +16,7 @@ participant  "SKV" as SKV #FFFFFF
 participant  "Försvarsdepart" as FORSVAR #FFFFFF
 participant  "NCSC" as NCSC #FFFFFF
 participant  "PRV" as PRV #FFFFFF
+participant  "RRV" as RRV #FFFFFF
 
 LM -> LM:  Consulting 
 note right #FFFFFF : Customer approved to publish project as open source\nbomresolver.io 
@@ -61,7 +62,9 @@ LM -> NCSC: 2025 02 18
 note right #FFFFFF :Fråga: Jag har funnit en svaghet 
 LM -> VINN: 2025 02 19 
 note right #FFFFFF : Behov av reaktiva åtgärder 
-LM -> CYBER:  2022 02 19
+LM -> CYBER:  2025 02 19
 note right #FFFFFF : Jag fick berätta om problemet på cybernodens medlemsmöte
+LM -> RRV:  2025 03 01 
+note right #FFFFFF : Vi uppfattar det som en uppmaning att granska cybersäkerhet i energisystem
 @enduml
 
