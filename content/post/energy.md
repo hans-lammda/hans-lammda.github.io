@@ -14,7 +14,7 @@ menu = "main"
     <th>Document</th>
   </tr>
   <tr>
-    <td rowspan="7"><A HREF="https://www.euractiv.com/section/energy/news/eu-parliament-calls-for-european-strategy-on-geothermal-energy/">Production</a> </td>
+    <td rowspan="8"><A HREF="https://www.euractiv.com/section/energy/news/eu-parliament-calls-for-european-strategy-on-geothermal-energy/">Production</a> </td>
     <td><A HREF="/documents/ansokan_2024_03_17.pdf">Application to Energimyndigheten to inform about EGS  2024 03 17 </a></td>
   </tr>
   <tr>
@@ -31,6 +31,9 @@ menu = "main"
   </tr>
   <tr>
     <td><A HREF="https://geotermi.se">Geotermi.se</a></td>
+  </tr>
+  <tr>
+    <td><A HREF="/documents/fjarrvarmenamnden.pdf">Request to not include pipelines for district heating in sale</a></td>
   </tr>
   <tr>
     <td><A HREF="/documents/epoch_2025_01_29.pdf">Article by Jan Blomgren in Epoch Times 2025 01 29 ( Swedish ) </a></td>
