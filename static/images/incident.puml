@@ -17,6 +17,8 @@ participant  "Försvarsdepart" as FORSVAR #FFFFFF
 participant  "NCSC" as NCSC #FFFFFF
 participant  "PRV" as PRV #FFFFFF
 participant  "RRV" as RRV #FFFFFF
+participant  "ISP" as ISP #FFFFFF
+participant  "Civilminitern" as CIV #FFFFFF
 
 LM -> LM:  Consulting 
 note right #FFFFFF : Customer approved to publish project as open source\nbomresolver.io 
@@ -66,5 +68,9 @@ LM -> CYBER:  2025 02 19
 note right #FFFFFF : Jag fick berätta om problemet på cybernodens medlemsmöte
 LM -> RRV:  2025 03 01 
 note right #FFFFFF : Vi uppfattar det som en uppmaning att granska cybersäkerhet i energisystem
+LM -> ISP:  2025 03 14 
+note right #FFFFFF : Reglering av stark cryptering slår tillbaka på kritisk infrastruktur\nSvårt att förena med multipla användingsområden
+LM -> CIV:  2025 03 20 
+note right #FFFFFF : Noterade svagt intresse från media då civilministern presenterande cybersäkerhetsstrategi\nAvsaknad av reaktiv förmåga i handlingsplanen som presenterats.
 @enduml
 
