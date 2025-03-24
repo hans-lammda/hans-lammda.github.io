@@ -18,7 +18,7 @@ participant  "NCSC" as NCSC #FFFFFF
 participant  "PRV" as PRV #FFFFFF
 participant  "RRV" as RRV #FFFFFF
 participant  "ISP" as ISP #FFFFFF
-participant  "Civilminitern" as CIV #FFFFFF
+participant  "Civilministern" as CIV #FFFFFF
 
 LM -> LM:  Consulting 
 note right #FFFFFF : Customer approved to publish project as open source\nbomresolver.io 
