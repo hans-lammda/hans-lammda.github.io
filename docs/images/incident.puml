@@ -72,5 +72,7 @@ LM -> ISP:  2025 03 14
 note right #FFFFFF : Reglering av stark cryptering slår tillbaka på kritisk infrastruktur\nSvårt att förena med multipla användingsområden
 LM -> CIV:  2025 03 20 
 note right #FFFFFF : Noterade svagt intresse från media då civilministern presenterande cybersäkerhetsstrategi\nAvsaknad av reaktiv förmåga i handlingsplanen som presenterats.
+LM -> SKV:  2025 03 25 
+note right #FFFFFF : Lyfte problemet vid en konferens www.sekenergiforum.com.
 @enduml
 
