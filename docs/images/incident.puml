@@ -19,6 +19,7 @@ participant  "PRV" as PRV #FFFFFF
 participant  "RRV" as RRV #FFFFFF
 participant  "ISP" as ISP #FFFFFF
 participant  "Civilministern" as CIV #FFFFFF
+participant  "Internetstiftelsen" as IS #FFFFFF
 
 LM -> LM:  Consulting 
 note right #FFFFFF : Customer approved to publish project as open source\nbomresolver.io 
@@ -74,5 +75,7 @@ LM -> CIV:  2025 03 20
 note right #FFFFFF : Noterade svagt intresse från media då civilministern presenterande cybersäkerhetsstrategi\nAvsaknad av reaktiv förmåga i handlingsplanen som presenterats.
 LM -> SKV:  2025 03 25 
 note right #FFFFFF : Lyfte problemet vid en konferens www.sekenergiforum.com.
+LM -> IS:  2025 03 28 
+note right #FFFFFF : Stiftelsen har fått medel av Vinnova för att kartlägga IoT
 @enduml
 
