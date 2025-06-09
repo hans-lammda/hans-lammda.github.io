@@ -20,6 +20,7 @@ participant  "RRV" as RRV #FFFFFF
 participant  "ISP" as ISP #FFFFFF
 participant  "Civilministern" as CIV #FFFFFF
 participant  "Internetstiftelsen" as IS #FFFFFF
+participant  "Folk och Försvar" as FF #FFFFFF
 
 LM -> LM:  Consulting 
 note right #FFFFFF : Customer approved to publish project as open source\nbomresolver.io 
@@ -77,5 +78,7 @@ LM -> SKV:  2025 03 25
 note right #FFFFFF : Lyfte problemet vid en konferens www.sekenergiforum.com.
 LM -> IS:  2025 03 28 
 note right #FFFFFF : Stiftelsen har fått medel av Vinnova för att kartlägga IoT
+LM -> FF:  2025 05 12 
+note right #FFFFFF : https://folkochforsvar.se/event/innovation-motorn-i-var-forsvarsformaga 1:23 Carl Heath 
 @enduml
 
