@@ -43,7 +43,7 @@ menu = "main"
     <td colspan="2" style="border-top: 2px solid grey;"></td>
   </tr>
   <tr>
-    <td rowspan="8"><A HREF="https://www.nato.int/cps/en/natohq/topics_132722.htm">Cybersecurity</a> </td>
+    <td rowspan="9"><A HREF="https://www.nato.int/cps/en/natohq/topics_132722.htm">Cybersecurity</a> </td>
     <td><A HREF="/documents/CfCs_Rapport_Cyberhot-mot-elsystemet.pdf">RISE cybersecurity report on devices related to Energy Grid March 2023</a></td>
   </tr>
   <tr>
@@ -66,6 +66,9 @@ menu = "main"
   </tr>
   <tr>
     <td><A HREF="https://lab.cybercampus.se/docs/thesis/open/25-01-hacking-smart-energy-gateways/">Analyzing and Exploiting Vulnerabilities in the Raspberry Pi Compute Module</a></td>
+  </tr>
+  <tr>
+    <td><A HREF="https://www.entsoe.eu/publications/blackout/9-may-2025-iberian-blackout">Iberian Peninsula Blackout</a></td>
   </tr>
 </table>
 
